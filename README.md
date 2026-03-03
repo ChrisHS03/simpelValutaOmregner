@@ -7,7 +7,7 @@ Et simpelt CLI-program til valutaomregning via https://www.exchangerate-api.com/
 1. Klon projektet
 ```bash
 git clone <https://github.com/ChrisHS03/simpelValutaOmregner>
-cd valutaOmregner
+cd simpelValutaOmregner
 ```
 
 2. Opret virtual environment
